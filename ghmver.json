@@ -1,8 +1,6 @@
 {
-  "latest": 0.2,
+  "latest": 0.4,
   "updateurl": "https://raw.githubusercontent.com/Kuharz/GreenHouseManager/master/Green%20House%20Manager.lua",
-  "updlist": " • Добавлен список с желтыми домами
-• Исправлены известные баги и добавлены новые ;D
-• Что-то еще, не помню что!",
+  "updlist": " • Исправлены найденные баги.",
   "force": false
 }
