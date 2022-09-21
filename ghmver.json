@@ -1,7 +1,6 @@
 {
-  "latest": 0.5,
+  "latest": 0.6,
   "updateurl": "https://raw.githubusercontent.com/Kuharz/GreenHouseManager/master/Green%20House%20Manager.lua",
-  "updlist": " • Исправлен небольшой баг с активацией,
-  • Добавлен резервный хостинг.",
+  "updlist": "Восстановлена работа хоста.",
   "force": true
 }
